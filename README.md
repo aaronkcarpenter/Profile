@@ -9,7 +9,7 @@ Hi, I'm Aaron! My professional career extends 6+ years in Logistics & Supply Cha
 * :tshirt: [Aimé Leon Dore](https://app-academy-capstone-project.web.app/)
 
 ### Current Technical Areas of Study - :computer:
-**Javascript | React | Python | Firebase | MongoDB**
+**Javascript | React | Python | Firebase | MongoDB | PostgreSQL | Firebase | Express | Flask **
 
 ### Other Personal Interests - :books:
 **Marketing | Entrepreneurship | Investing | Real Estate**
