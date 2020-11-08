@@ -31,7 +31,7 @@ Hi, I'm Aaron! My professional career extends 6+ years in Logistics & Supply Cha
 ### Other Personal Interests - :books:
 **Marketing | Entrepreneurship | Investing | Real Estate**
 
-### Social Media - :iphone:
+### Where Can You Find Me? - :iphone:
 * [LinkedIn](http://linkedin.com/in/aaronkcarpenter)
 * [Personal Site](http://aaronkcarpenter.github.io)
 * [AngelList](https://angel.co/u/aaron-carpenter-4)
