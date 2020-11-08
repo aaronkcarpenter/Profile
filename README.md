@@ -37,7 +37,7 @@ Hi, I'm Aaron! My professional career extends 6+ years in Logistics & Supply Cha
 * [AngelList](https://angel.co/u/aaron-carpenter-4)
 * [Email](mailto:aaronkcarpenter@gmail.com)
 
-### My Statistics
+### Aaron's Statistics
 <details>
   <summary>:zap: GitHub Stats</summary>
 
