@@ -7,6 +7,7 @@ Hi, I'm Aaron! My professional career extends 6+ years in Logistics & Supply Cha
 ### Current Projects - :hammer_and_wrench:
 * :athletic_shoe: [HypeSnob](https://hypesnob.herokuapp.com)
 * :tshirt: [Aimé Leon Dore](https://app-academy-capstone-project.web.app/)
+* :desktop_computer: Job Scraping with JavaScript (Github Jobs API / Google Sheets API)
 
 ### Current Technical Areas of Study - :computer:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
