@@ -2,7 +2,7 @@
 
 ## Software Engineer | MBA | Technology | Business
 
-Hi, I'm Aaron! My professional career extends 6+ years in Logistics & Supply Chain Management and for the last year, I've been studying software development full time. It's an exciting time for me and I've really enjoyed the process of learning the fundamentals of JavaScript, to now being able to build out full-stack applications in multiple languages. I've listed a few projects below and as I continue my technical skill development, more will be added.  In my spare time, I enjoy picking up a great non-fiction book, creating content for various mediums around the internet, and all things pop culture!
+Hi, I'm Aaron! My professional career extends 6+ years in Logistics & Supply Chain Management and for the last year, I've been studying software development full time. It's been quite an exciting time and I've really enjoyed the process of learning the fundamentals of JavaScript, to now being able to build out full-stack applications in multiple languages. I've listed a few projects below and as I continue my technical skill development, more will be added.  In my spare time, I enjoy picking up a great non-fiction book, creating content for various mediums around the internet, and all things pop culture!
 
 ### Current Projects - :hammer_and_wrench:
 * :athletic_shoe: [HypeSnob](https://hypesnob.herokuapp.com)
