@@ -20,6 +20,10 @@ Hi, I'm Aaron! My professional career extends 6+ years in Logistics & Supply Cha
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][website]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />][website]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][website]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
+[<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">][website]
+[<img align="left" alt="AWS" width="50" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/AWS.jpeg" />][website]
 
 <br />
 <br />
@@ -28,8 +32,10 @@ Hi, I'm Aaron! My professional career extends 6+ years in Logistics & Supply Cha
 **Marketing | Entrepreneurship | Investing | Real Estate |**
 
 ### Where Can You Find Me? - :iphone:
-* [LinkedIn](http://linkedin.com/in/aaronkcarpenter)
-* [Personal Site](http://aaronkylec.com)
+<!-- * [LinkedIn](http://linkedin.com/in/aaronkcarpenter) -->
+* [<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( http://www.linkedin.com/in/aaronkcarpenter)
+* [![Website](https://img.shields.io/website?label=AARONKYLEC.COM&m&style=for-the-badge&url=https%3A%2F%2Faaronkylec.com)](https://aaronkylec.com)
+<!-- * [Personal Site](http://aaronkylec.com) -->
 * [AngelList](https://angel.co/u/aaron-carpenter-4)
 * [Email](mailto:aaronkcarpenter@gmail.com)
 
