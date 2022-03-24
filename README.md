@@ -2,7 +2,7 @@
 
 ## Software Engineer | MBA | Technology | Business
 
-Hi, I'm Aaron! My professional career extends 6+ years in Logistics & Supply Chain Management and for the last year, I've been working as a Software Engineer. It's been quite an exciting time and I've really enjoyed everything that this new venture has introduced me to. I spend my days working on the front end of a large internal application with React, Hooks, Redux, while spending my nights building full stack projects. My current favorite stack is React, Flask, and PostgreSQL.  I've listed a few projects below and as I continue my technical skill development, more will be added.  In my spare time, I enjoy picking up a great non-fiction book, creating content for various mediums around the internet, and all things pop culture!
+Hi, I'm Aaron! My professional career extends 6+ years in Logistics & Supply Chain Management and for the last few years, I've been working as a Software Engineer. It's been quite an exciting time and I've really enjoyed everything that this new venture has introduced me to. I spend my days working on the front end of a large application with JavaScript, Material UI, React, React Hooks and Redux to manage state, while spending my nights coding out interesting full stack projects. My current favorite stack is React, Python, Flask, and PostgreSQL.  I've listed a few projects below and as I continue my technical skill development, more will be added.  In my spare time, I enjoy picking up a great non-fiction book, creating content for various mediums around the internet, and all things pop culture!
 
 ### Current Technical Areas of Study - :computer:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
@@ -25,11 +25,11 @@ Hi, I'm Aaron! My professional career extends 6+ years in Logistics & Supply Cha
 <br />
 
 ### Other Personal Interests - :books:
-**Marketing | Entrepreneurship | Investing | Real Estate**
+**Marketing | Entrepreneurship | Investing | Real Estate |**
 
 ### Where Can You Find Me? - :iphone:
 * [LinkedIn](http://linkedin.com/in/aaronkcarpenter)
-* [Personal Site](http://aaronkcarpenter.github.io)
+* [Personal Site](http://aaronkylec.com)
 * [AngelList](https://angel.co/u/aaron-carpenter-4)
 * [Email](mailto:aaronkcarpenter@gmail.com)
 
@@ -50,5 +50,5 @@ Hi, I'm Aaron! My professional career extends 6+ years in Logistics & Supply Cha
 
 
 
-[website]: https://aaronkcarpenter.github.io/
+[website]: https://aaronkylec.com/
 
