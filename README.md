@@ -35,7 +35,7 @@ Hi, I'm Aaron! My professional career extends 6+ years in Logistics & Supply Cha
 <!-- * [LinkedIn](http://linkedin.com/in/aaronkcarpenter) -->
 * [<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( http://www.linkedin.com/in/aaronkcarpenter)
 * [![Website](https://img.shields.io/website?label=AARONKYLEC.COM&m&style=for-the-badge&url=https%3A%2F%2Faaronkylec.com)](https://aaronkylec.com)
-* [![Website2](https://img.shields.io/website?label=AARONKYLE.CO&m&style=for-the-badge&url=https%3A%2F%2Faaronkyle.co)](https://aaronkyle.co)
+* [![Tech Blog](https://aaronkyle.co)
 <!-- * [Personal Site](http://aaronkylec.com) -->
 * [AngelList](https://angel.co/u/aaron-carpenter-4)
 * [Email](mailto:aaronkcarpenter@gmail.com)
