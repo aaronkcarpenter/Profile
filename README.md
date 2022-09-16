@@ -29,7 +29,7 @@ Hi, I'm Aaron! My professional career extends 6+ years in Logistics & Supply Cha
 <br />
 
 ### Other Personal Interests - :books:
-**Marketing | Entrepreneurship | Investing | Real Estate |**
+**Marketing | Entrepreneurship | Personal Growth And Development | Tech**
 
 ### Where Can You Find Me? - :iphone:
 <!-- * [LinkedIn](http://linkedin.com/in/aaronkcarpenter) -->
