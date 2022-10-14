@@ -2,7 +2,9 @@
 
 ## Software Engineer | MBA | Technology | Business
 
-Hi, I'm Aaron! My professional career extends 6+ years in Logistics & Supply Chain Management and for the last few years, I've been working as a Software Engineer. It's been quite an exciting time and I've really enjoyed everything that this new venture has introduced me to. I spend my days working on the front end of a large application with JavaScript, Material UI, React, React Hooks and Redux to manage state, while spending my nights coding out interesting full stack projects. My current favorite stack is React, Python, Flask, and PostgreSQL.  I've listed a few projects below and as I continue my technical skill development, more will be added.  In my spare time, I enjoy picking up a great non-fiction book, creating content for various mediums around the internet, and all things pop culture!
+I spent the first 5 years of my career in the Logistics & Supply Chain industry before transitioning to a more fitting role as a Software Engineer. I love learning and enjoy the work that I do. I spend a majority of my days consuming API's, crafting solutions to coding challenges, debugging web scrapers, and automating tasks and workflows.
+
+I've had the opportunity to explore many areas of programming, developing a wide array of knowledge related to front-end (JavaScript, HTML/CSS, React, React Native, Redux Toolkit), back-end (Node.js, Python, Flask, Django), cloud (AWS, Google Cloud Platform), & the database(PostgreSQL). In my personal time, I help others learn about programming with curated tech content. I write about tech, Software Engineering and the many facets of programming. My latest content can be found on my [blog](https://www.aaronkyle.co).
 
 ### Current Technical Areas of Study - :computer:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
