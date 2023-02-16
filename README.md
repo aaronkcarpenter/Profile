@@ -1,10 +1,12 @@
 # Aaron Carpenter :man_technologist:
 
-## Software Engineer | MBA | Technology | Business
+## Software Engineer | MBA | Tech Enthusiast
 
-I spent the first 5 years of my career in the Logistics & Supply Chain industry before transitioning to a more fitting role as a Software Engineer. I love learning and enjoy the work that I do. I spend a majority of my days consuming API's, crafting solutions to coding challenges, debugging web scrapers, and automating tasks and workflows.
+Aaron is Software Engineer who's always at the forefront of the latest tech trends. Driven by a passion for knowledge, he spends most   days crafting cutting-edge solutions, debugging code, automating workflows, and working in the cloud.
 
-I've had the opportunity to explore many areas of programming, developing a wide array of knowledge related to front-end (JavaScript, HTML/CSS, React, React Native, Redux Toolkit), back-end (Node.js, Python, Flask, Django), cloud (AWS, Google Cloud Platform), & the database(PostgreSQL). In my personal time, I help others learn about programming with curated tech content. I write about tech, Software Engineering and the many facets of programming. My latest content can be found on my [blog](https://www.aaronkyle.co).
+With a wealth of programming knowledge across various areas, Aaron has explored the full spectrum of web development using languages such as JavaScript, HTML/CSS, React, React Native, Redux Toolkit, Node.js, Python, and Django. He's also proficient in cloud technologies like AWS and database management systems such as PostgreSQL.
+
+In his spare time, Aaron generously shares his programming experiences with others through various social media platforms. His content is a goldmine for anyone interested in pivoting into tech. For the latest tips and tricks from Aaron, head over to [blog](https://www.aaronkyle.co) and join the community of like-minded tech enthusiasts.
 
 ### Current Technical Areas of Study - :computer:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
@@ -30,17 +32,17 @@ I've had the opportunity to explore many areas of programming, developing a wide
 <br />
 <br />
 
-### Other Personal Interests - :books:
-**Marketing | Entrepreneurship | Personal Growth And Development | Tech**
+### Other Interests - :books:
+**Marketing | Entrepreneurship | Personal Growth And Development**
 
 ### Where Can You Find Me? - :iphone:
 <!-- * [LinkedIn](http://linkedin.com/in/aaronkcarpenter) -->
 * [<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( http://www.linkedin.com/in/aaronkcarpenter)
 * [![Website](https://img.shields.io/website?label=AARONKYLEC.COM&m&style=for-the-badge&url=https%3A%2F%2Faaronkylec.com)](https://aaronkylec.com)
-* [Tech Blog](https://aaronkyle.co)
-<!-- * [Personal Site](http://aaronkylec.com) -->
+* [Tech Content](https://aaronkyle.co)
+<!-- * [Portfolio](http://aaronkylec.com) -->
 * [AngelList](https://angel.co/u/aaron-carpenter-4)
-* [Email](mailto:aaronkcarpenter@gmail.com)
+* [Contact](mailto:aaronkcarpenter@gmail.com)
 
 ### Aaron's Statistics
 <details>
