@@ -2,11 +2,7 @@
 
 ## Software Engineer | MBA | Tech Enthusiast
 
-Aaron is a Software Engineer who's always at the forefront of the latest tech trends. Driven by a passion for knowledge, he spends most   days crafting cutting-edge solutions, debugging code, automating workflows, and working in the cloud.
-
-With a wealth of programming knowledge across various areas, Aaron has explored the full spectrum of web development using languages such as JavaScript, HTML/CSS, React, React Native, Redux Toolkit, Node.js, Python, and Django. He's also proficient in cloud technologies like AWS and database management systems such as PostgreSQL.
-
-In his spare time, Aaron generously shares his programming experiences with others through various social media platforms. His content is a goldmine for anyone interested in pivoting into tech. For the latest tips and tricks from Aaron, head over to [my site](https://www.aaronkyle.co) and join the community of like-minded tech enthusiasts.
+Aaron is a Software Engineer passionate about staying up-to-date with the latest tech trends. He is experienced in crafting cutting-edge solutions, debugging code, automating workflows and working in the cloud. His programming expertise spans multiple areas, including JavaScript, HTML/CSS, React, React Native, Redux Toolkit, Node.js, Python, Django, AWS and PostgreSQL. Outside of work, Aaron shares his programming knowledge and experiences with others on social media. His content is a great resource for those looking to break into tech. To stay informed about Aaron's programming tips and tricks, check out his website and join his community of tech enthusiasts.
 
 ### Current Technical Areas of Study - :computer:
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
