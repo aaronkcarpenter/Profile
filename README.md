@@ -1,6 +1,6 @@
 # Aaron Carpenter :man_technologist:
 
-## Software Engineer | MBA | Tech Enthusiast
+## DevOps Solutions Engineer | Software Engineer | MBA | Tech Enthusiast
 
 Aaron is a Software Engineer passionate about staying up-to-date with the latest tech trends. He is experienced in crafting cutting-edge solutions, debugging code, automating workflows and working in the cloud. His programming expertise spans multiple areas, including JavaScript, HTML/CSS, React, React Native, Redux Toolkit, Node.js, Python, Django, AWS and PostgreSQL. Outside of work, Aaron shares his programming knowledge and experiences with others on social media. His content is a great resource for those looking to break into tech. To stay informed about Aaron's programming tips and tricks, check out his website and join his community of tech enthusiasts.
 
